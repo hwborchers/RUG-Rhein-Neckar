@@ -23,7 +23,7 @@ Still, we are thinking about ONLINE meetings during this summer, utilizing video
     Zoom Meeting ID
     Password
 
-> Please note: This is meant as a discussion between all participants. There will be no formal presentations, though I will try to prepare something as a starting point. If you have used *mlr3* before, you are welcome to share your experience with others.
+> Please note: This is meant as a discussion between all participants. There will be no formal presentations, though I will try to prepare something as a starting point. If you have used *mlr3* before, you are welcome to share your experience with others. And if noone comes along, that's okay, the following meeting(s) will still happen.
 
 
 ## News
