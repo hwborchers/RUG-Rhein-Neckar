@@ -10,7 +10,7 @@ R (<http://www.r-project.org/>) is a free software environment for statistical d
 Information about the official meetings 2020 can be found on the Meetup Page [R User Group Rhein-Neckar](https://www.meetup.com/R-User-Group-Rhein-Neckar/). Please note that because of the corona virus pandemic all further meetings have been postponed to some time later this year.
 
 **Online Meetings**  
-Still, we are thinking about ONLINE meetings during this summer, utilizing video conferencing software such as ZOOM or JITSI.
+Still, we are thinking about ONLINE meetings during this summer, utilizing video conferencing software such as [ZOOM](https://zoom.us/), [JITSI](https://jitsi.org/), or even Google MEET. All of these are available for notebooks, but also as apps for Android or Apple's iOS.
 
 
 ## News
