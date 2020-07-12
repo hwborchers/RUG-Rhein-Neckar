@@ -25,6 +25,6 @@ _30 June 2020_
 The [cheatsheets](https://rstudio.com/resources/cheatsheets/) page at RStudio now lists 12 cheat sheets from RStudio and 36 contributed cheat sheets! Among the contributions there are sheets about special R packages such as 'data.table', 'leaflet', or 'mlr'.
 
 **RStudio Conference 2020**  
-_January 2020_  
+_30 January 2020_  
 The yearly RStudio conferences -- this year in San Francisco, January 27-30  -- always come up with interesting topics. Videos can be found on [RStudio Conference 2020](https://resources.rstudio.com/rstudio-conf-2020). I personally found the talk "State of the tidyverse" by Hadley Wickham quite illuminating.
 
