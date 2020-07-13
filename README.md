@@ -20,8 +20,13 @@ We are thinking about ONLINE meetings during this summer, utilizing video confer
 
 > No need to participate in all three of them, just drop in when you have time. I will set up a Zoom meeting and publish the meeting ID and a password here on this page, probably on the resp. Monday before the event.
 
-    Zoom Meeting ID
-    Password
+    Tue, July 14, 2020, 7:00-7:40 PM
+
+    Join Zoom Meeting
+    https://us04web.zoom.us/j/71089832348?pwd=ZG8xRW55dTBGbnpxRHRCazg3NmlPdz09
+
+    Meeting ID: 710 8983 2348
+    Passcode: mlr3ae
 
 > Please note: This is meant as a discussion between all participants. There will be no formal presentations, though I will try to prepare something as a starting point. If you have used *mlr3* before, you are welcome to share your experience with others. And if noone shows up, that's okay, the following meeting(s) will still be happening.
 
