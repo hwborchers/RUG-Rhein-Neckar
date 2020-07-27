@@ -15,18 +15,10 @@ We are thinking about ONLINE meetings during this summer, utilizing video confer
 > I propose to have **three online meetups in July discussing the *mlr3* package family** for "Machine Learning in R", such as: How can it be used, its pros and cons, applying it to example data, what else is needed, etc.
 
 * *July 14, 19:00-19:45* &nbsp;&nbsp;&nbsp; Introducing *mlp3*; first steps; an example
-* *July 21, 19:00-19:45* &nbsp;&nbsp;&nbsp; tbd.
-* *July 28, 19:00-19:45* &nbsp;&nbsp;&nbsp; tbd.
+* *July 28, 19:00-19:45* &nbsp;&nbsp;&nbsp; Testing and resampling, data preparation
+* *August 11, 19:00-19:45* &nbsp;&nbsp;&nbsp; tbd.
 
 > No need to participate in all three of them, just drop in when you have time. I will set up a Zoom meeting and publish the meeting ID and a password here on this page, probably on the resp. Monday before the event.
-
-    Tue, July 14, 2020, 7:00-7:40 PM
-
-    Join Zoom Meeting
-    https://us04web.zoom.us/j/71089832348?pwd=ZG8xRW55dTBGbnpxRHRCazg3NmlPdz09
-
-    Meeting ID: 710 8983 2348
-    Passcode: mlr3ae
 
 > Please note: This is meant as a discussion between all participants. There will be no formal presentations, though I will try to prepare something as a starting point. If you have used *mlr3* before, you are welcome to share your experience with others. And if noone shows up, that's okay, the following meeting(s) will still be happening.
 
@@ -35,8 +27,7 @@ We are thinking about ONLINE meetings during this summer, utilizing video confer
 
 **UseR 2020 Conference**  
 _10 July 2020_  
-The "UseR 2020 Conference" (and its "European Hub") from July 7--11 was/were held as an online event. The video talks are available on [Contributed sessions](https://user2020.r-project.org/program/contributed/) and on Youtube. My favorite here was "Arbitrary precision linear algebra in R using RcppEigen and BH" as it answered a question I had some time ago.  
-The 'Breakout' and 'keynote' sessions can be found on the [Agenda](https://user2020.r-project.org/program/agenda/) page, a three hour recording at [Welcome and R core event](https://www.youtube.com/watch?v=X_eDHNVceCU&feature=youtu.be). For instance, the discussion on "New Developments in R 4.0.0 and Beyond" starts at 1:34 hours.
+The "UseR 2020 Conference" (and its "European Hub") from July 7--11 was/were held as an online event. The video talks are available on [Contributed sessions](https://user2020.r-project.org/program/contributed/) and on Youtube. The 'Breakout' and 'keynote' sessions can be found on the [Agenda](https://user2020.r-project.org/program/agenda/) page, a three hour recording at [Welcome and R core event](https://www.youtube.com/watch?v=X_eDHNVceCU&feature=youtu.be). For instance, the discussion on "New Developments in R 4.0.0 and Beyond" starts at 1:34 hours.
 
 **RStudio cheatsheets page**  
 _30 June 2020_  
