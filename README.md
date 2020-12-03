@@ -20,7 +20,7 @@ The meetups shall take place at locations in and around Heidelberg and Mannheim,
 **Online Meetings**  
 The ONLINE meetings will utilize video conferencing software such as [ZOOM](https://zoom.us/), [JITSI](https://jitsi.org/), or Google MEET. All of these are available for notebooks, but also as apps for Android or Apple's iOS. Listening to an event is possible by just dialing a certain phone number.
 
-See the[Wiki](https://github.com/hwborchers/RUG-Rhein-Neckar/wiki) for more information about the meetings.
+See the [Wiki](https://github.com/hwborchers/RUG-Rhein-Neckar/wiki) for more information about the meetings.
 
 ## Latest News
 
