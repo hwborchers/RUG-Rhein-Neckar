@@ -16,7 +16,7 @@ There will be meetings with one or two presentations or 'lightning talks', but t
 **Online Meetings**  
 The ONLINE meetings will utilize video conferencing software such as [ZOOM](https://zoom.us/), [JITSI](https://jitsi.org/), or Google MEET. All of these are available for notebooks, but also as apps for Android or Apple's iOS. Listening to an event is possible by just dialing a certain phone number.
 
-[Meetings 2020](wiki/Meetings2020)
+[Meetings 2020](https://github.com/hwborchers/RUG-Rhein-Neckar/wiki)
 
 ## News
 
