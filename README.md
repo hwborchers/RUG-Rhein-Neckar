@@ -21,9 +21,3 @@ The meetups shall take place at locations in and around Heidelberg and Mannheim,
 The ONLINE meetings will utilize video conferencing software such as [ZOOM](https://zoom.us/), [JITSI](https://jitsi.org/), or Google MEET. All of these are available for notebooks, but also as apps for Android or Apple's iOS. Listening to an event is possible by just dialing a certain phone number.
 
 See the [Wiki](https://github.com/hwborchers/RUG-Rhein-Neckar/wiki) for more information about the meetings.
-
-## Latest News
-
-**UseR 2020 Conference**  
-_10 July 2020_  
-The "UseR 2020 Conference" (and its "European Hub") from July 7--11 was/were held as an online event. The video talks are available on [Contributed sessions](https://user2020.r-project.org/program/contributed/) and on Youtube. The 'Breakout' and 'keynote' sessions can be found on the [Agenda](https://user2020.r-project.org/program/agenda/) page, a three hour recording at [Welcome and R core event](https://www.youtube.com/watch?v=X_eDHNVceCU&feature=youtu.be). For instance, the discussion on "New Developments in R 4.0.0 and Beyond" starts at 1:34 hours.
