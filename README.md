@@ -6,10 +6,10 @@ Please note: Due to the coronavirus pandemic, all meetings will be held online u
 
 R (<http://www.r-project.org/>) is a free software environment for statistical data processing, graphics and visualization. It includes an interpreted programming language, which can be extended through functions and packages. Due to this flexibility, but also due to the fact that R is open source software, it has become increasingly popular in the field of statistics and other disciplines in which statistical methods are used.
 
+Information about current and planned meetings can be found on the Meetup Page [R User Group Rhein-Neckar](https://www.meetup.com/R-User-Group-Rhein-Neckar/).
+
 
 ## General Meeting Information
-
-Information about current and planned meetings can be found on the Meetup Page [R User Group Rhein-Neckar](https://www.meetup.com/R-User-Group-Rhein-Neckar/).
 
 It is planned to hold the R User Group meeting each second Tuesday of a month, except probably for the summer break. Sometimes it will be the third Tuesday when the usual location is not available otherwise. Doors are open from 18:30 on, the official meeting will take place from 19:00 to 21:00 or somewhat later.
 
