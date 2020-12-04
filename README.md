@@ -13,7 +13,7 @@ Information about current and planned meetings can be found on the Meetup Page [
 
 It is planned to hold the R User Group meeting each second Tuesday of a month, except probably for the summer break. Sometimes it will be the third Tuesday when the usual location is not available otherwise. Doors are open from 18:30 on, the official meeting will take place from 19:00 to 21:00 or somewhat later.
 
-Each meetup will start with a short welcome introduction, then some R news and infos of general interest. We try to organize the meetups along specific topics with lightning talks (up to 15 minutes) or longer presentations (about 30 minutes), but there will also be meetings with no agenda or prepared talks.. Of course you also have the opportunity to discuss the topics you are interested in. A social get-together at a restaurant or bar nearby will be possible.
+Each meetup will start with a short welcome introduction, then some R news and infos of general interest. We try to organize the meetups along specific topics with lightning talks (up to 15 minutes) or longer presentations (about 30 minutes), but there will also be meetings with no agenda or prepared talks. Of course you also have the opportunity to discuss the topics you are interested in. A social get-together at a restaurant or bar nearby will be possible.
 
 The meetups shall take place at locations in and around Heidelberg and Mannheim, preferably near the train station. These years, meetups will in general take place at Dezernat 16 "in der alten Feuerwache Heidelberg" (Seminarraum upstairs), Emil-Maier-Str. 16, 69115 Heidelberg, in 5 minutes walking distance from the main station.
 
