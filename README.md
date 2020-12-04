@@ -18,6 +18,6 @@ Each meetup will start with a short welcome introduction, then some R news and i
 The meetups shall take place at locations in and around Heidelberg and Mannheim, preferably near the train station. These years, meetups will in general take place at Dezernat 16 "in der alten Feuerwache Heidelberg" (Seminarraum upstairs), Emil-Maier-Str. 16, 69115 Heidelberg, in 5 minutes walking distance from the main station.
 
 **Online Meetings**  
-The ONLINE meetings will utilize video conferencing software such as [ZOOM](https://zoom.us/), [JITSI](https://jitsi.org/), or Google MEET. All of these are available for notebooks, but also as apps for Android or Apple's iOS. Listening to an event is possible by just dialing a certain phone number.
+The ONLINE meetings will utilize video conferencing software such as [ZOOM](https://zoom.us/), [JITSI](https://jitsi.org/), or Google MEET. All of these are available for notebooks, but also as apps for Android or Apple's iOS. Listening to an event on a smartphone is possible by just dialing a certain phone number.
 
 See the [Wiki](https://github.com/hwborchers/RUG-Rhein-Neckar/wiki) for more information about the meetings.
